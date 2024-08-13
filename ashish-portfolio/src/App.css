@@ -1,0 +1,43 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.App-header ul {
+  list-style: none;
+  padding: 0;
+}
+
+.App-header ul li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.App-header ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+h2 {
+  color: #333;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 20px;
+}
